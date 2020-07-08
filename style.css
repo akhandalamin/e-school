@@ -1,0 +1,234 @@
+
+body{
+
+    font-family: 'Noto Sans JP', sans-serif;
+}
+
+.container{
+
+    margin-bottom: 100px;
+}
+.nav-area{
+
+    background-color:#f0fff0 ;
+}
+.bg-area{
+
+    background-color: #f0fff0;
+    height: 476px;
+    
+}
+
+.head-img{
+
+    margin-top: 80px;
+}
+
+.link a{
+
+    color: black;
+    text-decoration: none;
+}
+
+.sign{
+
+    border-radius: 20px;
+}
+
+
+.head-content{
+
+    margin-left: 20px;
+    margin-top: 100px;
+    
+
+}
+.head-content h6{
+
+    color:red;
+    margin-bottom: 20px;
+}
+
+.head-content h1{
+
+    margin-bottom: 20px;
+}
+
+.head-content p{
+
+    margin-bottom: 40px;
+}
+
+
+.any{
+
+    color:#21B573;
+}
+
+.get{
+
+    border-radius: 20px;
+    font-size: 20px;
+    padding: 10px 15px;
+}
+
+.book{
+
+   
+    text-align: center;
+    box-shadow: 1px 1px 1px 1px gainsboro;
+    padding: 8px 0px; 
+    border: none;
+    outline: none;
+    border-radius: 10px;
+       
+    
+}
+
+.book2{
+
+   
+    text-align: center;
+    box-shadow: 5px 5px 5px 5px gainsboro;
+    padding: 8px 0px; 
+    border: none;
+    outline: none;
+    border-radius: 10px;
+       
+    
+}
+
+
+
+.buy{
+
+    border-radius: 20px;
+    background-color: #21B573;
+    border: none;
+    outline: none;
+    font-size: 16px;
+    padding: 5px 10px;
+}
+
+
+
+.card{
+
+    border: none;
+    outline: none;
+    box-shadow: 5px 5px 5px 5px gainsboro;
+    border-radius: 20px;
+}
+
+.card-footer{
+
+    background-color: white;
+    border: none;
+    outline: none;
+}
+
+.online-title{
+
+    text-align: center;
+    font-size: 20px;
+    margin-bottom: 50px;
+    
+}
+
+
+.title{
+
+    text-align: center;
+    margin-bottom: 60px;
+}
+
+.test-content{
+
+    text-align: justify;
+    padding: 10px 5px;
+    margin-top: 20px;
+}
+
+.footer-content{
+    color: white;
+    text-align: justify;
+    padding: 10px 2px;
+    margin-top: 50px;
+    margin-left: 5px;
+}
+
+
+
+section{
+    width: 80%;
+    height: 280px;
+    margin:0 auto;
+    background-color: #282531;
+    
+  
+}
+
+
+
+.course ul{
+
+    margin: 0;
+    padding: 0;
+    margin-top: 5px;
+    margin-left: 5px;
+    
+}
+
+.course ul li{
+    list-style: none;
+}
+
+.course ul li a{
+
+    text-decoration: none;
+    color: white;
+    padding: 5px 2px;
+    
+}
+
+.ctitle{
+    color: white;
+    margin-top: 20px;
+    margin-left: 5px;
+    
+}
+
+footer{
+
+    color: white;
+    text-align: center;
+    margin-top: 60px;
+}
+
+.ad-name{
+
+    text-align: center;
+
+}
+
+.admission form{
+
+    margin: 0 auto;
+    margin-top: 40px;
+}
+
+.discount{
+    color: goldenrod;
+    font-size: 16px;
+}
+
+footer{
+
+    color: white;
+    margin-top: 0px;
+    background-color: #282531;
+    width: 80%;
+    height: auto;
+    margin: 0 auto;
+    padding: 5px 0px;
+}
